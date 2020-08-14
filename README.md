@@ -1,2 +1,2 @@
 # deep-learning
-use of neural network in image recognition 
+Deep RL for market 
